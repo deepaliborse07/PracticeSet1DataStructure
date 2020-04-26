@@ -1,5 +1,5 @@
 /*Largest sum contiguous array*/
-package Arrays;
+package arrays;
 
 public class Kadane {
 

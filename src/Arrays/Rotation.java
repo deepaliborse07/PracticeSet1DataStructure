@@ -1,5 +1,5 @@
 /*Program for Array Rotation*/
-package Arrays;
+package arrays;
 
 public class Rotation {
 

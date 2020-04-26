@@ -1,5 +1,5 @@
 /*Intersection point of linkedlist*/
-package LinkedList;
+package linkedList;
 import java.util.*;
 
 //import sun.tools.tree.Node; 

@@ -1,5 +1,5 @@
 //java program to find middle elent of linked list
-package LinkedList;
+package linkedList;
 
 public class MiddleLinkedList {
 	

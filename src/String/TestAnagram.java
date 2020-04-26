@@ -1,5 +1,5 @@
 /*Check weather 2 strings are anagram of each other*/
-package String;
+package string;
 import java.util.Arrays;
 
 public class TestAnagram {

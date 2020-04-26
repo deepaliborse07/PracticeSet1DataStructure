@@ -1,5 +1,5 @@
 /*Reverse a linked list*/
-package LinkedList;
+package linkedList;
 
 public class ReverseLinkedList {
 	

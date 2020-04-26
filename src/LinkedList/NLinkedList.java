@@ -1,5 +1,5 @@
 /*Program for nth node from the end of linked list*/
-package LinkedList;
+package linkedList;
 
 public class NLinkedList {
 	Node head;//

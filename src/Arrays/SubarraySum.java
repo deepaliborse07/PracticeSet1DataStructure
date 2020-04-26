@@ -1,5 +1,5 @@
 /*Find subArray with given sum*/
-package Arrays;
+package arrays;
 
 public class SubarraySum {
 	

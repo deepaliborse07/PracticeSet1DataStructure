@@ -1,5 +1,5 @@
 /*Sort arrays of 0's,1's,2's */
-package Arrays;
+package arrays;
 
 public class Sort012 {
 	

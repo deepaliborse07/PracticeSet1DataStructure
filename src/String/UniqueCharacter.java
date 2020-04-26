@@ -1,5 +1,5 @@
 /*Find First Unique character in String*/
-package String;
+package string;
 
 public class UniqueCharacter {
 

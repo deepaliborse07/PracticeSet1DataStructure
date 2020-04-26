@@ -1,5 +1,5 @@
 /*Find second largest element in the array*/
-package Arrays;
+package arrays;
 
 public class Print2largest {
 

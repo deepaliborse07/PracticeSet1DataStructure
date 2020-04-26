@@ -1,5 +1,5 @@
 /*Reverse a String*/
-package String;
+package string;
 
 public class ReverseString {
 

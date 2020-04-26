@@ -1,5 +1,5 @@
 /*Find the sum of elements of each diagonal of N*N matrix */
-package Arrays;
+package arrays;
 
 public class SumDiagonal {
 	
